@@ -1,2 +1,2 @@
 # controling-mouse
-using our computer without moving our hands just by face and voice  
+manipuler une base donne former par des etudiant pour faire diffrente taches,programmer par c  
